@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+@media (max-aspect-ratio:7/10){
+    .JoinContainer{
+        width: 100%;
+    }
+}
